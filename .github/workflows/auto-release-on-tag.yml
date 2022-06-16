@@ -1,0 +1,11 @@
+on:
+  push:
+    tags:
+      - '*.*.*'
+jobs:
+  auto-tag:
+    name: Auto-release-on-tag
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto-release-on-tag
+        uses: GuySartorelli/gha-auto-release-on-tag@use-fork
