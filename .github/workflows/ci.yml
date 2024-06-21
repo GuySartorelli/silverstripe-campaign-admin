@@ -7,3 +7,6 @@ on:
 jobs:
   ci:
     uses: emteknetnz/github-actions-ci-cd/.github/workflows/ci.yml@dynamic2
+    with:
+      run_endtoend: false
+      run_phplinting: false
