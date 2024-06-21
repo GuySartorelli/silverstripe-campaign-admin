@@ -1,5 +1,7 @@
 # SilverStripe Campaign Admin Module
 
+Minor change to trigger a PR so the github action fires.
+
 [![Build Status](https://api.travis-ci.com/silverstripe/silverstripe-campaign-admin.svg?branch=1)](https://travis-ci.com/silverstripe/silverstripe-campaign-admin)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/silverstripe/silverstripe-campaign-admin/badges/quality-score.png?b=1)](https://scrutinizer-ci.com/g/silverstripe/silverstripe-campaign-admin/?branch=1)
 [![codecov](https://codecov.io/gh/silverstripe/comment-notifications/branch/master/graph/badge.svg)](https://codecov.io/gh/silverstripe/comment-notifications)
